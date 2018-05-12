@@ -1,4 +1,5 @@
 _repo: Wie-es-Euch-gefallt_7041
+_version: 0.1.0
 alternative_title: As You Like It. German
 contributor:
   translator:
@@ -9,6 +10,9 @@ contributor:
     gutenberg_agent_id: '2356'
     url: http://www.gutenberg.org/2009/agents/2356
     wikipedia: http://en.wikipedia.org/wiki/August_Wilhelm_von_Schlegel
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare, William
@@ -21,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/65
     wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
 description: 'Translation of: As You Like It'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7041#Wie-es-Euch-gefallt
 gutenberg_bookshelf: DE Drama
 gutenberg_issued: '2004-12-01'
 gutenberg_type: Text
